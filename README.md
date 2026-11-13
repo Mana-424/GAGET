@@ -10,5 +10,5 @@
 
 下の画像は制作中のCADデータ
 
-![CAD_data1](images/image1.png)
-![CAD_data2](images/image2.png)
+![CAD_data1](images/image1)
+![CAD_data2](images/image2)
